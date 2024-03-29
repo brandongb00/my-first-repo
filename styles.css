@@ -67,18 +67,8 @@ h2, h3 {
   font-size: 1.25em;
   transition: ease-in-out 0.3s;
 }
-/*
-h2 {
-  text-align: center;
-  color: red;
-  margin-top: 70px;
-}
-*/
 ul {
   display: flex;
-  /*justify-content: center;
-  align-items: center;
-  height: 100vh;*/
   margin: 0;
   padding: 0;
 }
